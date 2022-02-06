@@ -156,7 +156,7 @@ p{
 
 .main-content {
     width: 69.75rem;
-    height: 73.88rem;
+    height: 80.88rem;
     padding: 3rem 0.75rem;
     margin: 0rem 6.5rem;
 }
@@ -216,4 +216,30 @@ p{
 
 .btn-first {
     margin-left: 0.5rem;
+}
+
+footer {
+    padding: 3rem 0rem;
+}
+
+.footer-div__p {
+    display: inline-block;
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #6c757d;
+}
+
+.footer-div__a {
+    float: right;
+    color: #0d6efd;
+}
+
+.footer-div {
+    margin-right: 8.5rem;
+    margin-left: 8rem;
+}
+
+.footer-a {
+    color: #0d6efd;
 }
