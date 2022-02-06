@@ -27,6 +27,14 @@ nav {
     margin-right: 5.4rem;
 }
 
+.hide {
+    display: none;
+}
+
+.shrink {
+    height: 5rem;
+}
+
 .temporary-left {
     display: inline-block;
     width: 41.1rem;
